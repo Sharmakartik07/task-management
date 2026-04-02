@@ -1,6 +1,6 @@
 # Task Management System
 
-A full-stack Task Management System built with Node.js + TypeScript (backend) and Next.js + TypeScript (frontend).
+A full-stack Task  Management System built with Node.js + TypeScript (backend) and Next.js + TypeScript (frontend).
 
 ---
 
